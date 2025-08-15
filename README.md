@@ -40,8 +40,8 @@
 | ☐      | [Lian Yu](https://tryhackme.com/room/lianyu)                                  | CTF                 |       			          
 | ☐      | [Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit)              | CTF                 |                                          |
 | ☐      | [Mr Robot CTF](https://tryhackme.com/room/mrrobot)                            | CTF                 |                                          |
-| ☑      | [Internal](https://tryhackme.com/room/internal)                               | CTF                 |                                          |
-| ☐      | [Crack the hash](https://tryhackme.com/room/crackthehash)                     | Cryptography        |                                          |
+| ☐      | [Internal](https://tryhackme.com/room/internal)                               | CTF                 |                                          |
+| ☑      | [Crack the hash](https://tryhackme.com/room/crackthehash)                     | Cryptography        |                                          |
 | ☐      | [Walking An Application](https://tryhackme.com/room/walkinganapplication)     | Web                 |                                          |
 | ☐      | [OWASP Top 10](https://tryhackme.com/room/owasptop10)                         | Web                 |                                          |
 | ☐      | [OWASP Top 10 - 2021](https://tryhackme.com/room/owasptop102021)              | Web                 |                                          |
