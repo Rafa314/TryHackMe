@@ -1,66 +1,43 @@
-# TryHackMe: Free Cybersecurity Path
-
-This comprehensive [TryHackMe](https://tryhackme.com) learning path is designed to guide you from a novice to an expert within the cybersecurity domain. 
-
-It offers a diverse selection of practical exercises, introductory CTFs, and educational modules that encompass a broad spectrum of topics, including OpenVPN, Linux fundamentals, web scanning, and Metasploit, all available at no cost.
-
-Suitable for individuals new to the field or those seeking to refine their existing skills, this learning path provides a valuable resource for all.
-
-Upon completion, you will have established a robust foundation in cybersecurity, equipping you with the knowledge and expertise necessary to tackle advanced challenges and real-world situations.
-
-<details>
-  <summary>
-    <b>Instructions</b>
-  </summary>
-
-  You can find instructions on how to use this repository at [INSTRUCTIONS.md](/INSTRUCTIONS.md).
-</details>
-
-<br/>
-
-<!-- ☐ -->
-<!-- ☐ -->
-
 | Status | Room Title                                                                    | Category            | Write-up                                 |
 | ---    | ---                                                                           | ---                 | ---                                      |
-| ☐      | [Tutorial](https://tryhackme.com/room/tutorial)                               | Intro               |                                          |
-| ☐      | [OpenVPN](https://tryhackme.com/room/openvpn)                                 | Intro               |                                          |
-| ☐      | [Welcome](https://tryhackme.com/jr/welcome)                                   | Intro               | [done](write-ups/level1/Welcome)         |
-| ☐      | [Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec) | Intro               |                                          |
-| ☐      | [Intro to Researching](https://tryhackme.com/room/introtoresearch)            | Intro               |                                          |
-| ☐      | [Google Dorking](https://tryhackme.com/room/googledorking)                    | Intro               |                                          |
-| ☐      | [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)        | Intro               |                                          |
-| ☐      | [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)  | Intro               |                                          |
-| ☐      | [Linux Fundamentals 1](https://tryhackme.com/room/linuxfundamentalspart1)     | Intro               |                                          |
+| ☑      | [Tutorial](https://tryhackme.com/room/tutorial)                               | Intro               |                                          |
+| ☑      | [OpenVPN](https://tryhackme.com/room/openvpn)                                 | Intro               |                                          |
+| ☑      | [Welcome](https://tryhackme.com/jr/welcome)                                   | Intro               | 
+| ☑      | [Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec) | Intro               |                                          |
+| ☑      | [Intro to Researching](https://tryhackme.com/room/introtoresearch)            | Intro               |                                          |
+| ☑      | [Google Dorking](https://tryhackme.com/room/googledorking)                    | Intro               |                                          |
+| ☑      | [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)        | Intro               |                                          |
+| ☑      | [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)  | Intro               |                                          |
+| ☑      | [Linux Fundamentals 1](https://tryhackme.com/room/linuxfundamentalspart1)     | Intro               |                                          |
 | ☐      | [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)     | Intro               |                                          |
 | ☐      | [Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals)       | Intro               |                                          |
 | ☐      | [Tmux](https://tryhackme.com/room/rptmux)                                     | Tooling             |                                          |
 | ☐      | [Nmap](https://tryhackme.com/room/furthernmap)                                | Tooling             |                                          |
 | ☐      | [Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)        | Tooling             |                                          |
 | ☐      | [Hydra](https://tryhackme.com/room/hydra)                                     | Tooling             |                                          |
-| ☐      | [Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)                      | Tooling             | [done](write-ups/level2/Linux%20PrivEsc) |
+| ☐      | [Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)                      | Tooling             | 
 | ☐      | [Shodan.io](https://tryhackme.com/room/shodan)                                | Tooling             |                                          |
-| ☐      | [RustScan](https://tryhackme.com/room/rustscan)                               | Tooling             | [done](write-ups/level2/RustScan)        |
+| ☐      | [RustScan](https://tryhackme.com/room/rustscan)                               | Tooling             | 
 | ☐      | [Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)          | Tooling             |                                          |
 | ☐      | [Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)          | Tooling             |                                          |
 | ☐      | [Introduction to OWASP ZAP](https://tryhackme.com/room/learnowaspzap)         | Tooling             |                                          |
 | ☐      | [OHsint](https://tryhackme.com/room/ohsint)                                   | CTF                 |                                          |
-| ☐      | [Vulnversity](https://tryhackme.com/room/vulnversity)                         | CTF                 | [done](write-ups/level2/Vulnversity)     |
+| ☐      | [Vulnversity](https://tryhackme.com/room/vulnversity)                         | CTF                 | 
 | ☐      | [Blue](https://tryhackme.com/room/blue)                                       | CTF                 |                                          |
-| ☐      | [Simple CTF](https://tryhackme.com/room/easyctf)                              | CTF                 | [done](write-ups/level2/Simple%20CTF)    |
-| ☐      | [Bounty Hacker](https://tryhackme.com/room/cowboyhacker)                      | CTF                 | [done](write-ups/level2/Bounty%20Hacker) |
+| ☐      | [Simple CTF](https://tryhackme.com/room/easyctf)                              | CTF                 | 
+| ☐      | [Bounty Hacker](https://tryhackme.com/room/cowboyhacker)                      | CTF                 | 
 | ☐      | [Brute It](https://tryhackme.com/room/bruteit)                                | CTF                 |                                          |
 | ☐      | [Fowsniff CTF](https://tryhackme.com/room/ctf)                                | CTF                 |                                          |
 | ☐      | [Agent Sudo](https://tryhackme.com/room/agentsudoctf)                         | CTF                 |                                          |
 | ☐      | [The Cod Caper](https://tryhackme.com/room/thecodcaper)                       | CTF                 |                                          |
 | ☐      | [Ice](https://tryhackme.com/room/ice)                                         | CTF                 |                                          |
-| ☐      | [Lazy Admin](https://tryhackme.com/room/lazyadmin)                            | CTF                 | [done](write-ups/level3/Lazy%20Admin)    |
+| ☐      | [Lazy Admin](https://tryhackme.com/room/lazyadmin)                            | CTF                 | 
 | ☐      | [Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)              | CTF                 |                                          |
 | ☐      | [Post Exploitation Basics](https://tryhackme.com/room/postexploit)            | CTF                 |                                          |
 | ☐      | [Dogcat](https://tryhackme.com/room/dogcat)                                   | CTF                 |                                          |
 | ☐      | [Buffer Overflow Prep](https://tryhackme.com/room/bufferoverflowprep)         | CTF                 |                                          |
 | ☐      | [Break out the cage](https://tryhackme.com/room/breakoutthecage1)             | CTF                 |                                          |
-| ☐      | [Lian Yu](https://tryhackme.com/room/lianyu)                                  | CTF                 | [done](write-ups/level8/Lian%20Yu)       |
+| ☐      | [Lian Yu](https://tryhackme.com/room/lianyu)                                  | CTF                 |       			          
 | ☐      | [Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit)              | CTF                 |                                          |
 | ☐      | [Mr Robot CTF](https://tryhackme.com/room/mrrobot)                            | CTF                 |                                          |
 | ☐      | [Internal](https://tryhackme.com/room/internal)                               | CTF                 |                                          |
@@ -94,7 +71,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 | ☐      | [Ignite](https://tryhackme.com/room/ignite)                                   | PrivEsc             |                                          |
 | ☐      | [Kenobi](https://tryhackme.com/room/kenobi)                                   | PrivEsc             |                                          |
 | ☐      | [c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)                 | PrivEsc             |                                          |
-| ☐      | [Pickle Rick](https://tryhackme.com/room/picklerick)                          | PrivEsc             | [done](write-ups/level7/Pickle%20Rick)   |
+| ☐      | [Pickle Rick](https://tryhackme.com/room/picklerick)                          | PrivEsc             |
 | ☐      | [Overpass 3 - Hosting](https://tryhackme.com/room/overpass3hosting)           | PrivEsc             |                                          |
 | ☐      | [Active Directory Basics](https://tryhackme.com/room/winadbasics)             | Windows             |                                          |
 | ☐      | [Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)        | Windows             |                                          |
@@ -117,15 +94,3 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 <!-- | ☐      | [CC Radare2](https://tryhackme.com/room/ccradare2)                       | Reverse Engineering |                                          | -->
 <!-- | ☐      | [CC Steganography](https://tryhackme.com/room/ccstego)                   | Reverse Engineering |                                          | -->
 <!-- | ☐      | [Reverse Engineering](https://tryhackme.com/room/reverseengineering)     | Reverse Engineering |                                          | -->
-
-<details>
-  <summary>
-    <b>Completed the above? You can:</b>
-  </summary>
-
-  - Subscribe to TryHackMe to get paths featuring subscriber-only rooms, use my [referral link](https://tryhackme.com/signup?referrer=6291c8b35002ba0050e92637) to get a ***5$*** discount!
-  - New challenge rooms are released weekly, have a go at them before the write-ups come out!
-  - Create your challenge rooms for TryHackMe.
-  - Join the TryHackMe King of the Hill (KOTH) challenges, check out my [KOTH toolkit repository](https://github.com/migueltc13/KoTH-Tools), for a collection of tools and scripts to help you win.
-  - Sign up to other platforms such as [CTF time](https://ctftime.org/) and take part in competitive CTFs.
-</details>
